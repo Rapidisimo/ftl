@@ -11,6 +11,6 @@ I've recently moved the website and I'm in the process of re-doing the recipe pa
 More will be added as soon as I'm able to. If you need something specific let me know on [Twitter](https://twitter.com/AnotherDK)
 Cheers
 
-{% for page in collections.pages %}
+{% for page in collections.recipes %}
 - [{{ page.data.title }}]({{ page.url }})
 {%- endfor %}
