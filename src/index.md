@@ -3,19 +3,13 @@ title: Welcome!
 layout: base.njk
 ---
 
-## Welcome to this FTL test site 
+## Written versions of the Food Tech Life YouTube recipe videos
 
-I see you are interested in having the written form of the recipe. Click on the recipe you are looking for below. Cheers!
+Hey, thanks for stopping by! 
+I've recently moved the website and I'm in the process of re-doing the recipe pages.
 
-- Arepa de Choclo
-- Easy Atol de Elote
-- Falvorful Red Bean Soup
-- Mexican Tostadas
-- Pao de Quijo - GF Cheese Bread
-- Pistachio and Cardamon Loaf
-- Pulled Chicken Tacos with Avocado Crema
-- Red Wine Sangria
-- Refried Beans with Plantains
+More will be added as soon as I'm able to. If you need something specific let me know on [Twitter](https://twitter.com/AnotherDK)
+Cheers
 
 {% for page in collections.pages %}
 - [{{ page.data.title }}]({{ page.url }})

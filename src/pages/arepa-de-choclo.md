@@ -2,8 +2,58 @@
 title: Arepa de Choclo (with whole corn)
 ---
 
+![Sweet Corn Patty with toppings](../../images/arepa-choclo.jpg)
+
 I really enjoy making this arepa de choclo recipe because it’s easy to prepare and can serve as a vessel for other toppings. I hadn’t heard of arepas until a couple of years back when I started discovering Colombian food.
 
 I’ve tried various arepa recipes but none lived up to my expectations. After doing some research, I came across one that I could build upon. Now that I’ve made it many times, while adjusting ratios, I’m confident you will enjoy this delicious recipe.
 
-![Sweet Corn Patty with toppings](../../images/arepa-choclo.jpg)
+## Equipment 
+
+- Blender
+- Bowl
+- Pan
+
+
+<h2>Ingredients</h2>
+<ul>
+    <li>597 Grams Yellow Corn</li>
+    <li>4 Tbsp Milk (any type will do)</li>
+    <li>2 Tbsp Sugar</li>
+    <li>1 Large Egg</li>
+    <li>1 Cup Corn Flour (Pre-cooked) (I used white corn P.A.N.)</li>
+    <li>1 Tsp Kosher Diamond Salt (Use less for any other type of salt.)</li>
+    <li>300 grams Mozzarella Cheese (Can be substituted for other cheese that melts easily.)</li>
+</ul>
+<h2>Instructions</h2>
+<h3>Blended Ingredients</h3>
+<ol>
+    <li>To a blender add: Corn, Milk, Sugar, Egg and Salt</li>
+    <li>Blend using pulsing to retain some texture</li>
+    <li>Set Aside</li>
+</ol>
+<h3>Flour and Cheese</h3>
+<ol>
+    <li>Into a bowl shred the mozzarella cheese</li>
+    <li>Add 1 Cup of Corn Flour</li>
+</ol>
+<h3>Combine</h3>
+<ol>
+    <li>Add the blended corn mixure to the bowl and mix the dough very well.</li>
+</ol>
+<h3>Paties</h3>
+<ol>
+    <li>Form a ball of dough, medium size</li>
+    <li>With the use of a press or by placing the ball in between two sheets of parchment paper you can make a round patty that resembles a thick tortilla. Approximately 1/4 inch (6.35mm) in thickness.</li>
+</ol>
+<p>Otherwise, if you want to use your hands, wet them with water and a little oil. Flatten the dough and start shaping it until it forms a medium sized patty.</p>
+<h3>Cook</h3>
+<ol>
+    <li>To a pan with a medium heat add 1 tsp of oil and spread.</li>
+    <li>Cook the arepas for a total of 4-5 minutes. 2:35 on each side or so until golden brown.</li>
+</ol>
+<h3>Eat!</h3>
+<ol>
+    <li>Eat as is or add your favorite toppings. In the picture above, I added caramelized onions, sausage, mashed avocado and topped it off with a bit of Sriracha sauce.</li>
+    <li>For breakfast I just top it off with a little sour cream.</li>
+</ol>
