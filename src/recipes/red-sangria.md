@@ -2,7 +2,7 @@
 title: Red Wine Sangria
 ---
 
-![Atol de Elote in a bowl](../../images/red-sangria.jpg)
+![Sangria in a pitcher and two glasses](../../images/red-sangria.jpg)
 
 ## My favorite quick and easy recipe
 
