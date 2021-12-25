@@ -53,7 +53,7 @@ These are one of my favorite types of tacos to make because they have so much fl
 
 ### Avocado Crema 
 
-1. In a blender add:
+1. To a blender add:
 2. A large bunch of cilantro, 1 1/2 of avocado, 1 tsp of salt, 1 1/2 lime juice and 3 Tbsp of sour cream. Blend until nice and smooth. Taste for desired acidity and salt.
 3. Empty out into a container
 
