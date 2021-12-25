@@ -1,6 +1,6 @@
 # Food Tech Life
 
-This is the website that goes along with the [YouTube Channel](https://youtube.com/foodtechlife). 
+[Food Tech Life](https://foodtechlife.com) is the website that goes along with the [YouTube Channel](https://youtube.com/foodtechlife). 
 
 It was previously hosted as a blog using Wordpress and the hosting plan was ending.
 
