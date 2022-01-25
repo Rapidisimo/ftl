@@ -6,7 +6,7 @@ title: Flavorful Red Bean Soup
 
 After making bean soup many times I’ve arrived at this particular method of preparing them. I enjoy it because the flavor that comes out is rich and is quite the contrast if all your use to is canned beans.
 
-When I have a bowl of red bean soup I add a little bit of cooked rice. For condiments I’ll have any of the following: ripe avocado, sour cream, hard cheese and tortillas. There’s times where I’ve all them of them and it becomes a hearty meal.
+When I have a bowl of red bean soup I add a little bit of cooked rice. For condiments I’ll have any of the following: ripe avocado, sour cream, hard cheese and tortillas. There are times where I’ll have all of them and it becomes a hearty meal.
 
 
 ## Equipment 
