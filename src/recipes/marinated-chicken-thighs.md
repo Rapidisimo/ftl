@@ -4,6 +4,8 @@ title: Marinated Fried Chicken Thighs
 
 ![A plate with two chicken thighs rice and asparagus](../../images/Marinated-Chicken-Thighs.jpg)
 
+We all love fried chicken, how about one that’s not only easy to make but also juicy as well? In that case, read on!  I used a simple but delicious marinade.  Follow the steps below to achieve that crispy skin!
+
 A link to the YouTube video: [Marinated Fried Chicken Thighs](https://youtu.be/SsXmbDArnxY)
 
 
