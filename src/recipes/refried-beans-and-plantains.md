@@ -8,6 +8,9 @@ I was eager to make this recipe for my YouTube Channel. It’s one of my favorit
  
 This recipe also serves as a great base layer for any additional food you want to pair it with.  Here's an example: sunny side up or scrambled eggs, along with chorizo.  Add a slice of avocado along with some hard cheese (queso duro). Don’t forget your warm tortilla or a nice piece of bread. Last, but not least, a hot cup of coffee! So delicious!  
 
+A link to the YouTube video: [Refried Beans and Fried Plantains](https://youtu.be/hD6mkCPdzRw)
+
+
 # Refried Black Beans 
 
 ## Equipment 

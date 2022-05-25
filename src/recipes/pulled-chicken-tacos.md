@@ -6,6 +6,9 @@ title: Pulled Chicken Tacos with Avocado Crema
 
 These are one of my favorite types of tacos to make because they have so much flavor! A taco just with onion, cilantro and lime already tastes amazing. Now add some avocado crema (sour cream) and things get crazy good.
 
+A link to the YouTube video: [Pulled Chicken Tacos with Avocado Crema](https://youtu.be/xidENLfhBIM)
+
+
 ## Equipment 
 
 - Pan

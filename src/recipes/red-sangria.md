@@ -8,6 +8,9 @@ title: Red Wine Sangria
 
 This really is an easy to make and very tasty red wine Sangria. I’ve had people tell me they don’t enjoy Sangria as much, but after they taste this one, they are pleasantly surprised at how delicious it was. My favorite part is how easy it is to drink. There is no harsh alcohol taste at all. If you make it, let me know here or on YouTube. Cheers!
 
+A link to the YouTube video: [Refreshing Red Wine Sangria](https://youtu.be/xFtPy5YeJo8)
+
+
 ## Equipment 
 
 - Large Pitcher

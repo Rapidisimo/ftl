@@ -8,6 +8,9 @@ I really enjoy making this arepa de choclo recipe because it’s easy to prepare
 
 I’ve tried various arepa recipes but none lived up to my expectations. After doing some research, I came across one that I could build upon. Now that I’ve made it many times, while adjusting ratios, I’m confident you will enjoy this delicious recipe.
 
+A link to the YouTube video: [Sweet Corn Patty with Toppings](https://youtu.be/ryvgMEc7L68)
+
+
 ## Equipment 
 
 - Blender

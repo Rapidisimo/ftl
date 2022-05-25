@@ -8,6 +8,9 @@ This is the third loaf I’ve baked in my short baking trajectory and I can say 
 
 If this recipe came out delicious for me, I’m sure anyone can make it as well. Feel free to increase the amount of sugar if you like your loaf on the sweeter side. I tried to decrease the sugar as much as possible while maintaining some sweetness. Let me know if you make it and how it turned out!
 
+A link to the YouTube video: [Pistachio Cardamom Loaf](https://youtu.be/zFYuXkJO8B0)
+
+
 ## Equipment 
 
 - Loaf Pan

@@ -10,6 +10,9 @@ This is my interpretation of a Salvadoran Enchilada or a Mexican Tostada. Feel f
 
 I’ve made this dish for many people and so far they have all enjoyed it. I hope you will too.
 
+A link to the YouTube video: [Mexican Tostadas | Salvadoran Enchiladas](https://youtu.be/V9XCSUiiYQI)
+
+
 
 ## Ingredients 
 

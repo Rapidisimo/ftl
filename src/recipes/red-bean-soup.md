@@ -8,6 +8,9 @@ After making bean soup many times, I’ve arrived at this particular method of p
 
 When I have a bowl of red bean soup, I add a little bit of cooked rice. For condiments, I’ll have any of the following: ripe avocado, sour cream, hard cheese and tortillas. There are times where I’ll have all of them and it becomes a hearty meal.
 
+A link to the YouTube video: [Flavorful Red Bean Soup](https://youtu.be/MQQKJ0SYn6s)
+
+
 
 ## Equipment 
 

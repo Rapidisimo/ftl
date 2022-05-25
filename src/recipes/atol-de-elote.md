@@ -8,7 +8,7 @@ Atol de Elote is a traditional drink of [Mesoamerican](https://en.wikipedia.org/
 
 The original Mesoamerican recipe calls for young white corn on the husk. It can be difficult to find that type of corn, so instead, I opted to make my recipe with organic yellow corn, which is much easier to find. The traditional recipe also doesn’t use cornstarch but I found that by adding a few tablespoons in, it gives the atole a richer consistency, which makes it tastes better.
 
-I’ve written down the ingredient list along with each step below. However, if you prefer to watch a video of the preparation instead, then please visit my [YouTube Channel](https://youtube.com/foodtechlife). I hope you enjoy it and let me know if you make it!
+I’ve written down the ingredient list along with each step below. However, if you prefer to watch a video of the preparation instead, then please visit my [YouTube Channel](https://youtu.be/r3MxSRB5yB0). I hope you enjoy it and let me know if you make it!
 
 ## Equipment 
 

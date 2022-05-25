@@ -12,6 +12,9 @@ Now just because it’s gluten free doesn’t mean you shouldn’t watch how man
 
 Disclaimer: I’m still learning especially baking so my measurements may not be industry standard 🙂.
 
+A link to the YouTube video: [Pao de queijo | Cheese Bread](https://youtu.be/lyJnjQ92gNk)
+
+
 ## Equipment 
 
 - Oven
