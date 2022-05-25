@@ -15,7 +15,7 @@ I’ve made this dish for many people and so far they have all enjoyed it. I hop
 
 - 1 Onion
 - 1 Green Pepper
-3 Tomato
+- 3 Tomatoes
 - 1 Can Tomato Paste
 - 2 Large Eggs
 - 8 Thin Corn Tortillas
@@ -23,7 +23,7 @@ I’ve made this dish for many people and so far they have all enjoyed it. I hop
 - 2 Limes
 - 2 Avocados
 - Salt to taste
-- 1 Pound Ground Beef – (I prefer grass fed)
+- 1 Pound Ground Beef – (I prefer grass-fed)
 - 1 Garlic Powder
 - 1 Chipotle Powder
 - 1 Lea & Perrins Worcestershire Sauce
@@ -40,11 +40,11 @@ I’ve made this dish for many people and so far they have all enjoyed it. I hop
 4. Heat skillet with a medium-high fire
 5. Add 1 Tbsp. of oil to the pan
 6. Add the chopped tomato, onion and green pepper and add 1/2 tsp of salt
-7. Reduce the fire to low and cover. Check back in 4-5min stir and check the tomatoes. If all that remains is the skin then we are ready for the next step.
+7. Reduce the heat to low and cover. Check back in 4-5min, stir and check the tomatoes. If all that remains is the skin then we are ready for the next step.
 8. Add the 1 pound of ground beef.
 9. Add 1 tsp of Salt, 1/2 tsp of Garlic Powder, 1 tsp of Chipotle Powder, 1 tsp of Worcestershire Sauce, Pepper to taste or around 1/4 tsp and 3/4 small can of Tomato Paste.
 10. Mix well while breaking down the meat. I like to do a chopping motion with the spoon to avoid having big chunks of meat. Once it's broken down enough cover and set the flame to low. After 5min check and stir then again around 10min.
-11. After the 10-12 minutes check again and taste. Adjust for salt and seasoning.
+11. After 10-12 minutes, check again and taste. Adjust for salt and seasoning.
 
 ### Hard Boiled Eggs 
 
@@ -83,12 +83,12 @@ Set aside
 
 ### Assemble the Tostada/Enchilada!
 
-1. Group your toppings and grab a fried tortilla
-2. For the first layer add around 1 massive teaspoon (maybe 1 Tbsp.) of the refried beans and spread it enough to cover the tortilla.
-3. Next a very generous tablespoon of the ground beef. Spread it evenly.
-4. Next a generous teaspoon of mashed avocado.
-5. Add Shredded Lettuce on top
-6. 1-2 Slices of hard boiled egg
+1. Group your toppings and grab a fried tortilla.
+2. For the first layer add around 1 massive teaspoon (around 1 Tbsp) of the refried beans and spread it enough to cover the tortilla.
+3. Next, a very generous tablespoon of the ground beef. Spread it evenly.
+4. Next, a generous teaspoon of mashed avocado.
+5. Add the shredded lettuce on top.
+6. Add 1-2 slices of the hard boiled egg.
 7. A teaspoon or two of diced tomatoes.
-8. Finally a generous amount of shredded/crumbled cheese.
-9. That's it! Feel free to Remix the steps.
+8. Finally, top with a generous amount of shredded/crumbled cheese.
+That's it! Feel free to assemble it any way you like, have fun with it and enjoy!

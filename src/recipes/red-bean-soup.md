@@ -4,9 +4,9 @@ title: Flavorful Red Bean Soup
 
 ![Bowl of red bean soup](../../images/red-bean-soup.jpg)
 
-After making bean soup many times I’ve arrived at this particular method of preparing them. I enjoy it because the flavor that comes out is rich and is quite the contrast if all your use to is canned beans.
+After making bean soup many times, I’ve arrived at this particular method of preparing them. I enjoy it because the flavor that comes out is rich and is quite the contrast if all you are used to is canned beans.
 
-When I have a bowl of red bean soup I add a little bit of cooked rice. For condiments I’ll have any of the following: ripe avocado, sour cream, hard cheese and tortillas. There are times where I’ll have all of them and it becomes a hearty meal.
+When I have a bowl of red bean soup, I add a little bit of cooked rice. For condiments, I’ll have any of the following: ripe avocado, sour cream, hard cheese and tortillas. There are times where I’ll have all of them and it becomes a hearty meal.
 
 
 ## Equipment 
@@ -39,6 +39,6 @@ When I have a bowl of red bean soup I add a little bit of cooked rice. For condi
 
 1. Clean beans to remove any possible debris.
 2. Rinse the beans thoroughly
-3. Add beans, spices, chopped ingredients and water to instant pot.
+3. Add beans, spices, chopped ingredients and water to Instant Pot.
 4. Cook at high pressure for 30 minutes. Allow 10 minutes to pass and then release pressure.
 5. **If you have soaked the beans the day before then cooking at high pressure can be set to 9 minutes instead.

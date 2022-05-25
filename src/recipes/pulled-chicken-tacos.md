@@ -10,6 +10,7 @@ These are one of my favorite types of tacos to make because they have so much fl
 
 - Pan
 - Blender
+- Grater
 
 ## Ingredients 
 
@@ -25,7 +26,7 @@ These are one of my favorite types of tacos to make because they have so much fl
 - 1 Pack Corn Tortillas
 - 1 Black Pepper to taste
 - 1 tsp Garlic Powder
-- 1.2 tsp Chipotle Powder
+- 1 tsp Chipotle Powder
 - 1 Salt to taste
 
 ## Instructions 
@@ -34,7 +35,7 @@ These are one of my favorite types of tacos to make because they have so much fl
 
 1. In a container place chicken breast, add salt and one lime for a quick marinade (5min while you take out the rest of the ingredients).
 2. Heat cast iron pan and add 1 tbsp of oil. Adjust flame to medium.
-3. Pat chicken dry with a paper towel and add to hot pan. Flip once browned and cook through. Then remove it from the pan.
+3. Pat chicken dry with a paper towel and add to hot pan. Flip once browned and cook through. Once fully cooked, remove from pan.
 
 ### Base Sauce for Chicken 
 
@@ -49,29 +50,28 @@ These are one of my favorite types of tacos to make because they have so much fl
 1. Remove the ends of the radishes (after washing them thoroughly) and dice into small cubes. Place in a container.
 2. Dice 1/3 of an onion and set aside. Roughly chop a cilantro and combine with diced onion.
 3. Optional: Add 1 lime to the onion and cilantro mix.
-4. Shred Jack Pepper Cheese – set aside.
+4. Grate Jack Pepper cheese – set aside.
 
 ### Avocado Crema 
 
-1. To a blender add:
-2. A large bunch of cilantro, 1 1/2 of avocado, 1 tsp of salt, 1 1/2 lime juice and 3 Tbsp of sour cream. Blend until nice and smooth. Taste for desired acidity and salt.
-3. Empty out into a container
+1. To a blender add: a large bunch of cilantro, 1 1/2 of avocados, 1 tsp of salt, 1 1/2 lime juice and 3 Tbsp of sour cream. Blend until nice and smooth. Taste for desired acidity and salt.
+2. Empty out into a container.
 
 ### Pulled Chicken 
 
-1. With the chicken having cooled down you can begin to shred it. Just pull the meat into long strands. The thinner they are the easier it will be to consume them. I like them thin.
+1. With the chicken having cooled down, you can begin to shred it. Just pull the meat into long strands. The thinner they are the easier it will be to consume them. I like them thin.
 2. Heat the same pan where you made the chicken. Add 1 Tbsp of oil.
 3. Add the shredded chicken once the pan is hot.
-4. Add pepper to taste, 1 tsp of garlic powder, 1.2 tsp of chipotle powder, salt to taste.
+4. Add pepper to taste, 1 tsp of garlic powder, 1 tsp of chipotle powder, salt to taste.
 5. Add the base sauce we made earlier
 6. Mix well for about 3min or so and taste. Adjust seasoning if needed and remove from the heat.
 
 ### Assembling the Pulled Chicken Tacos!
 
-1. Heat the corn tortillas on a pan with medium heat. First add a drop or two of oil to the pan and use the tortilla to spread it out. Just warm them making sure not to over do it otherwise they get toasted and turn hard. Wrap them in a paper towel and place them inside a sealed container.
+1. Heat the corn tortillas on a pan with medium heat. First, add a drop or two of oil to the pan and use the tortilla to spread it out. Just warm them making sure not to over do it otherwise they get toasted and turn hard. Wrap tortillas in a paper towel and place them inside a sealed container.
 2. Grab a warm tortilla and add shredded cheese.
 3. Add the hot shredded chicken on top of the cheese. This will help melt it.
 4. Add your Avocado Crema on to the chicken.
 5. Add your onion and cilantro mix.
 6. Finally top it off with the diced radish for some texture and color.
-7. Fold and and enjoy!
+7. Fold and enjoy!
