@@ -22,7 +22,7 @@ A link to the YouTube video: [Arroz Frito Recipe - Fried Rice | The Rice I Grew 
 - **1 small tomato (80g), diced**
 - **1/4 small onion (27g), diced**
 - **1/4 green bell pepper (26g), diced**
-- **1 tsp Better Than Bouillon (or half a bouillon cube)**
+- **1/2 tsp Better Than Bouillon (or half a bouillon cube)**
 - **1/4 tsp adobo seasoning**
 - **1 tsp kosher salt (adjust to taste)**
 - **1 tsp olive oil (4g)**
@@ -55,7 +55,7 @@ Although not necessary, I always rinse my rice. It removes excess starch and hel
 3. **Let it toast lightly while stirring occasionally. This step enhances the flavor.**
 
 ### Step 5: Cook the Rice
-1. **Once the rice is lightly fried and what remains of the tomato is just the peel, pour in 1.5 cups of water.**
+1. **Once the rice is lightly fried and what remains of the tomato is just the peel, pour in the water.**
 2. **Scrape the bottom of the pot to lift any browned bits (adds extra flavor!).**
 3. **Bring to a simmer and cook uncovered for about 8 minutes, until most of the water evaporates.**
 4. **Once you hear a light sizzle, reduce the heat to very low.**
@@ -71,5 +71,4 @@ Although not necessary, I always rinse my rice. It removes excess starch and hel
 This arroz frito is delicious on its own, but it pairs wonderfully with:
 - **Black bean soup** (I made some with boneless short ribs, and it was perfect for chilly days!)
 - **Grilled meats or roasted vegetables**
-- **A side of fried eggs for a simple, comforting meal**
 
